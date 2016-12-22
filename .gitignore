@@ -2,6 +2,7 @@
 
 public/wp/*
 !public/wp/.htaccess
+!public/wp/wp-content/themes
 
 composer.phar
 /vendor/
