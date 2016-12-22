@@ -1,0 +1,7 @@
+*.log
+
+public/wp/*
+!public/wp/.htaccess
+
+composer.phar
+/vendor/
