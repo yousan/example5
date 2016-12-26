@@ -6,3 +6,4 @@ public/wp/*
 
 composer.phar
 /vendor/
+wpcs/
